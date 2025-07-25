@@ -1,0 +1,30 @@
+# Ignore class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore BlueJ files
+*.ctxt
+
+# Ignore IDE directories
+.idea/
+.vscode/
+*.iml
+
+# Ignore MacOS files
+.DS_Store
+
+# Ignore build directories
+out/
+bin/
+target/
+
+# Ignore Gradle and Maven caches (kalau suatu saat pakai)
+.gradle/
+build/
+.mvn/
+
+# Ignore temporary files
+*.tmp
+*.swp
